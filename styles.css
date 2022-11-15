@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.gpay-top-section {
+    background-image: url('https://lemiapp.com/images/covers/cover7.png');
+    background-size: cover;
+
+    height: 35vh;
+
+}
+
+.gpay-top-section-heading {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial;
+    width: 210px;
+    padding: 30px;
+}
+
+.Totalrewards {
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    font-family: Arial;
+
+}
+
+.gpay-bottom-section {
+    background-color: #E8F9FD;
+    padding: 20px;
+    text-align: center;
+}
+
+.gpay-card-item {
+    text-align: center;
+    background-color: white;
+    width: 150px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.gpay-card-image {
+    height: 70px;
+    width: 70px;
+
+
+}
+
+.gpay-card-message {
+    font-family: Roboto;
+    font-size: 15px;
+    margin: 4px;
+
+}
+
+.gpay-card-prize {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+
+}
